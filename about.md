@@ -8,4 +8,7 @@ I am a PhD student interested in [stratified medicine](http://biomed.science.uls
 
 Hopefully I'll put interesting or useful things here.
 
-Made with [Jekyll](http://jekyllrb.com/) and [Pixyll](https://github.com/johnotander/pixyll). 
+Made with:
++ [Jekyll](http://jekyllrb.com/).
++ [Pixyll](https://github.com/johnotander/pixyll) (minor alterations made).
++ [Github Pages](https://pages.github.com/)
