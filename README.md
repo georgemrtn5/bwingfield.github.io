@@ -1,3 +1,5 @@
 # Philoslothical
 
-Interesting things about machine learning and biology. 
+Interesting things about machine learning and biology.
+
+[Main website](http://philoslothical.github.io)
