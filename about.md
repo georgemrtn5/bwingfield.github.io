@@ -1,11 +1,11 @@
 ---
 layout: page
-title: What is this place? 
+title: About 
 permalink: /about/
 ---
 
-I am a PhD student looking at biomarkers, metagenomics, the intestinal microbiome, and machine learning.
+I am a PhD student interested in [stratified medicine](http://biomed.science.ulster.ac.uk/stratifiedmed/-What-is-Stratified-Medicine-.html),  [biomarkers](https://en.wikipedia.org/wiki/Biomarker), the [intestinal microbiome](https://en.wikipedia.org/wiki/Human_microbiota#Intestinal_flora), and [machine learning](https://en.wikipedia.org/?title=Machine_learning).
 
-Hopefully I'll put interesting or useful things about machine learning and biology here.
+Hopefully I'll put interesting or useful things here.
 
 Made with [Jekyll](http://jekyllrb.com/) and [Pixyll](https://github.com/johnotander/pixyll). 
