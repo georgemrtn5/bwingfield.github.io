@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philoslothical</title>
+    <description>Interesting things about machine learning and biology</description>
+    <link>http://philoslothical.github.io/</link>
+    <atom:link href="http://philoslothical.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hello</title>
+        <description>&lt;p&gt;Hello.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jun 2015 13:00:00 +0100</pubDate>
+        <link>http://philoslothical.github.io/2015/06/25/hello-world/</link>
+        <guid isPermaLink="true">http://philoslothical.github.io/2015/06/25/hello-world/</guid>
+      </item>
+    
+  </channel>
+</rss>
