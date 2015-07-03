@@ -1,5 +1,5 @@
-# Philoslothical
+# Ramblings
 
 Interesting things about machine learning and biology.
 
-[Main website](http://philoslothical.github.io)
+[Main website](http://benjaminwingfield.github.io)
