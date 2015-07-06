@@ -4,7 +4,7 @@ email:       benjamin@mwingfield.com
 author:      Benjamin Wingfield
 description: "Interesting things about machine learning and biology"
 baseurl:     ""
-url:         "http://benjaminwingfield.github.io"
+url:         "http://bwingfield.github.io"
 
 # Google analytics
 google_analytics:
@@ -19,8 +19,8 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
-github_username: benjaminwingfield
+show_social_icons: yes
+github_username: bwingfield
 stackoverflow_id:
 twitter_username: 
 google_plus_id:
