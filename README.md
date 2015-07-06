@@ -2,4 +2,4 @@
 
 Interesting things about machine learning and biology.
 
-[Main website](http://benjaminwingfield.github.io)
+http://bwingfield.github.io
