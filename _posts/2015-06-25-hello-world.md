@@ -1,9 +1,0 @@
----
-layout:     post
-title:      Hello
-date:       25-06-2015 13:00:00
-summary:    A placeholder post
-categories: 
----
-
-Hello.
