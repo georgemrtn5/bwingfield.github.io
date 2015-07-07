@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Philoslothical</title>
+    <title>Ramblings</title>
     <description>Interesting things about machine learning and biology</description>
-    <link>http://philoslothical.github.io/</link>
-    <atom:link href="http://philoslothical.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://bwingfield.github.io/</link>
+    <atom:link href="http://bwingfield.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Hello</title>
-        <description>&lt;p&gt;Hello.&lt;/p&gt;
+        <title>Do Androids Dream of Electric Frogs?</title>
+        <description>&lt;h3 id=&quot;google-dreamdream&quot;&gt;Google DreamDream&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://googleresearch.blogspot.co.uk/2015/06/inceptionism-going-deeper-into-neural.html&quot;&gt;Google recently blogged&lt;/a&gt;
+about a visualisation tool called DeepDream they made for visualising
+neural networks. Neural networks are often described as
+&lt;a href=&quot;http://stats.stackexchange.com/questions/93705/meaning-of-a-neural-network-as-a-black-box&quot;&gt;black boxes&lt;/a&gt; -
+although they can
+&lt;a href=&quot;http://neuralnetworksanddeeplearning.com/chap4.html&quot;&gt;approximate any function&lt;/a&gt;,
+the structure of the network doesn&amp;rsquo;t give insight to the structure of
+the function being approximated. The
+&lt;a href=&quot;http://googleresearch.blogspot.co.uk/2015/07/deepdream-code-example-for-visualizing.html&quot;&gt;original aim of the tool&lt;/a&gt;
+was to help understand how neural networks carry out classification
+tasks, but Google found the process can generate &amp;ldquo;beautiful&amp;rdquo; (terrifying) art.&lt;/p&gt;
+
+&lt;h3 id=&quot;hallucinations&quot;&gt;Hallucinations&lt;/h3&gt;
+
+&lt;p&gt;The final product.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rCmJsGu.gif&quot; alt=&quot;alt text&quot; title=&quot;ILLUMINATI&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I supplied &lt;a href=&quot;http://www.dailydot.com/lol/4chan-pepe-the-frog-renaissance/&quot;&gt;this sad frog&lt;/a&gt; to Google DeepDream via the ipython notebook
+(&lt;a href=&quot;http://googleresearch.blogspot.co.uk/2015/07/deepdream-code-example-for-visualizing.html&quot;&gt;instructions here&lt;/a&gt;). 
+&lt;img src=&quot;http://i.imgur.com/LRMcS5C.jpg&quot; alt=&quot;alt text&quot; title=&quot;Pepe the melancholy frog&quot;&gt; &lt;/p&gt;
+
+&lt;p&gt;As the network tries to classify these sad frogs some patterns
+emerge.
+&lt;img src=&quot;http://i.imgur.com/Y5bgz2I.jpg&quot; alt=&quot;alt text&quot; title=&quot;We must go deeper&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Portions of different species of bird begin to appear along with a car
+and some legs.
+&lt;img src=&quot;http://i.imgur.com/mD1NC4N.jpg&quot; alt=&quot;alt text&quot; title=&quot;We have delved too greedily&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;In the last iterations the network classified dozens of eyes.
+&lt;img src=&quot;http://i.imgur.com/S4s2cpc.jpg&quot; alt=&quot;alt text&quot; title=&quot;... and too deep&quot;&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 25 Jun 2015 13:00:00 +0100</pubDate>
-        <link>http://philoslothical.github.io/2015/06/25/hello-world/</link>
-        <guid isPermaLink="true">http://philoslothical.github.io/2015/06/25/hello-world/</guid>
+        <pubDate>Tue, 07 Jul 2015 11:00:00 +0100</pubDate>
+        <link>http://bwingfield.github.io/deeplearning/2015/07/07/dreaming-frog/</link>
+        <guid isPermaLink="true">http://bwingfield.github.io/deeplearning/2015/07/07/dreaming-frog/</guid>
       </item>
     
   </channel>
