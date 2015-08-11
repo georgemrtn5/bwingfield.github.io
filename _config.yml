@@ -1,8 +1,8 @@
 # Site settings
 title:       Ramblings
-email:       wingfieldb@email.ulster.ac.uk
+email:       wingfield-b@email.ulster.ac.uk
 author:      Benjamin Wingfield
-description: "Interesting things about machine learning and biology"
+description: "Interesting bits and bobs"
 baseurl:     ""
 url:         "http://bwingfield.github.io"
 
