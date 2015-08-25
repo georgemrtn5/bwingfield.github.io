@@ -36,7 +36,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Benjamin Wingfield
-  email: "youremail@domain.com"
+  email: "wingfield-b@email.ulster.ac.uk"
   github: bwingfield
   twitter: anangrybee
   # linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
@@ -50,10 +50,6 @@ footer-links-active:
   github: true
   linkedin: false
   stackoverflow: false
-
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "bwingfield.github.io"  
 
 # --- Misc --- #
 
