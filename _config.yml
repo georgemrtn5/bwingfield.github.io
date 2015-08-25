@@ -1,54 +1,106 @@
-# Site settings
-title:       Ramblings
-email:       wingfield-b@email.ulster.ac.uk
-author:      Benjamin Wingfield
-description: "Interesting bits and bobs"
-baseurl:     ""
-url:         "http://bwingfield.github.io"
+# --- Serving options --- #
 
-# Google analytics
-google_analytics:
+# url is the full website URL
+# baseurl is the website's URL without the hostname
 
-# Optional features
-animated:           false
-show_related_posts: false
-show_post_footers:  false
+# If you are building a simple GitHub user page (username.github.io) then use these settings:
+url: "http://bwingfield.github.io"
+baseurl: ""
 
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
 
-# Social icons
-show_social_icons: yes
-github_username: bwingfield
-stackoverflow_id:
-twitter_username: 
-google_plus_id:
-linkedin_username:
-angellist_username:
-bitcoin_url:
-paypal_url:
-flattr_button:
+# Of course don't forget to change the username and projectname to YOUR username and project
 
-# Post sharing icons
-show_sharing_icons: false
-share_text: 'Share this post!'
-# Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
+# Name of website
+title: bwingfield
 
-# Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     3
-sass:
-  compressed: true
+# Short description of your site
+description: Interesting or useful things about biology and computer science.
+
+# --- Navigation bar options --- #
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar-icon.png"
+
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  About Me: "aboutme.html"
+  
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Benjamin Wingfield
+  email: "youremail@domain.com"
+  github: bwingfield
+  twitter: anangrybee
+  # linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
+ 
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: true
+  email: true
+  twitter: true
+  github: true
+  linkedin: false
+  stackoverflow: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "bwingfield.github.io"  
+
+# --- Misc --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+#disqus: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "America/Vancouver"
+markdown: kramdown
+highlighter: pygments
+permalink: /:year-:month-:day-:title
+paginate: 5
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
+
+# Exclude these files from production site
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
+
+# prose.io options
+prose:
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - /_includes
+    - /_layouts
+    - /css
+    - /img
+    - /js
+    

@@ -24,19 +24,19 @@ tasks, but Google found the process can generate "beautiful" (terrifying) art.
 
 The final product.
 
-![alt text](http://i.imgur.com/rCmJsGu.gif "ILLUMINATI")
+![alt text](/img/pepes/animated.gif "ILLUMINATI")
 
-I supplied [this sad frog](http://www.dailydot.com/lol/4chan-pepe-the-frog-renaissance/) to Google DeepDream via the ipython notebook
+I supplied [this sad frog]/) to Google DeepDream via the ipython notebook
 ([instructions here](http://googleresearch.blogspot.co.uk/2015/07/deepdream-code-example-for-visualizing.html)). 
-![alt text](http://i.imgur.com/LRMcS5C.jpg "Pepe the melancholy frog") 
+![alt text](/img/pepes/1.jpg "Pepe the melancholy frog") 
 
 As the network tries to classify these sad frogs some patterns
 emerge.
-![alt text](http://i.imgur.com/Y5bgz2I.jpg "We must go deeper")
+![alt text](/img/pepes/2.jpg "We must go deeper")
 
 Portions of different species of bird begin to appear along with a car
 and some legs.
-![alt text](http://i.imgur.com/mD1NC4N.jpg "We have delved too greedily")
+![alt text](/img/pepes/3.jpg "We have delved too greedily")
 
 In the last iterations the network classified dozens of eyes.
-![alt text](http://i.imgur.com/S4s2cpc.jpg "... and too deep")
+![alt text](/img/pepes/4.jpg "... and too deep")
